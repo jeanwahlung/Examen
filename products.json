@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Chaleco Bike Vest",
+      "description": "chaleco liviano con señales itermitentes",
+      "keywords": [
+        "stuffed", "plush", "groot", "guardians of the galaxy"
+      ],
+      "image": "1-chaleco_bv.jpg",
+      "age": [
+        "0", "+"
+      ],
+      "price": 19.99
+    }
+    
+  ]
+}
